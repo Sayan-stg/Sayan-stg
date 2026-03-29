@@ -5,7 +5,7 @@
 * **Branch:**  B.Tech CSE (AI & ML)
 * **Year:** 1st year
 * **College:** VIT Bhopal University
-* * **Registration no.:** 25BAI11532
+* **Registration no.:** 25BAI11532
 
 ### 🚀 My Goal
 
