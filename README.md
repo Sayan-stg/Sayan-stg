@@ -1,19 +1,25 @@
-## Hi there I'm Sayan Mondal👋
+# Hi, I'm Sayan Mondal 👋
 
-🎓 About Me
-Branch: B.Tech CSE (AI & ML)
-Year: 1st Year
-College: VIT Bhopal University
-Registeration no: 25BAI11532
-🚀 My Goal
+### 🎓 About Me
+
+* **Branch:**  B.Tech CSE (AI & ML)
+* **Year:** 1st year
+* **College:** VIT Bhopal University
+
+### 🚀 My Goal
+
 I want to learn Artificial Intelligence, Machine Learning, and improve my coding skills.
 
-💻 Skills (Learning)
-Python
-C Programming
-Basics of AI/ML
-📌 Interests
-Technology
-Coding
-Problem Solving<!--
-**Sayan-stg/Sayan-stg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+### 💻 Skills (Learning)
+
+* **Languages:** Python, C++, Java
+* **Web Dev:** HTML, CSS, JavaScript
+* **Other:** Git, GitHub, Basics of Ai Ml
+
+### 📌 Interests
+
+* **Technology:** Staying updated with the latest tech trends.
+* **Coding:** Solving complex problems through logic.
+* **Projects:** Building real-world applications.
+
+---
